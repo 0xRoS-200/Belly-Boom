@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^0.0.0-insiders.4bfacb3",
+    "lucide-react": "^0.511.0",
     "parcel": "^2.15.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-icons": "^5.5.0",
     "tailwindcss": "^0.0.0-insiders.4bfacb3"
   }
 }
