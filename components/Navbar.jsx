@@ -5,7 +5,7 @@ const profileImage = new URL("../public/profile.jpeg", import.meta.url);
 
 const Navbar = ({ companyname = "Foodie", logo = logoUrl }) => {
     return (
-        <div className="w-full h-16 bg-[#fdf6f6] border-b border-gray-200 flex items-center justify-between px-10">
+        <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10">
             {/* Logo & Company Name */}
             <div className="flex items-center gap-2">
                 <img

@@ -1,6 +1,5 @@
 import ReactDOM from "react-dom/client";
-import LandingPage from "./pages/LandingPage";
-import HomePage from "./pages/LandingPage";
+import HomePage from "./pages/HomePage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<HomePage />);
