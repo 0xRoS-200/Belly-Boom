@@ -1,9 +1,8 @@
 import { ShoppingCart, Search } from "lucide-react";
 
-const logoUrl = new URL("../public/Logo.jpg", import.meta.url);
-const profileImage = new URL("../public/profile.jpeg", import.meta.url);
 
-const Navbar = ({ companyname = "Foodie", logo = logoUrl }) => {
+
+const Navbar = ({ companyname, logo, profileImage }) => {
     return (
         <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10">
             {/* Logo & Company Name */}
