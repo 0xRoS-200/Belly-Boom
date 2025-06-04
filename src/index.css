@@ -1,2 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Thai:wght@100..800&display=swap');
 @import "tailwindcss";
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

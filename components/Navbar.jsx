@@ -1,7 +1,5 @@
 import { ShoppingCart, Search } from "lucide-react";
 
-
-
 const Navbar = ({ companyname, logo, profileImage }) => {
     return (
         <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10">
