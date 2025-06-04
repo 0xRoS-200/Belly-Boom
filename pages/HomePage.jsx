@@ -1715,7 +1715,7 @@ const HomePage = () => {
             <Searchbtn />
             <div className="mt-8 ml-10 text-[32px] font-medium">Food Delivery Restaurants in Kolkata</div>
 
-            <div id="resList" className="px-40 py-6 flex gap-10 flex-wrap overflow-scroll">  {/*Content Driven UI*/}
+            <div id="resList" className="px-40 py-6 flex gap-10 flex-wrap">  {/*Content Driven UI*/}
                 {resData.map((item, index) => {
                     const restaurant = {
                         resName: item.info.name,
