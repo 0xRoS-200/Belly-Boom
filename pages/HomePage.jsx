@@ -1708,17 +1708,6 @@ const resData = [
     }
 ]
 
-const Restaurant = {
-    "resName": resData[0].info.name,
-    "resImg": resData[0].info.image.url,
-    "resRating": resData[0].info.rating.rating_text,
-    "resCusine": resData[0].info.cuisine.map(c => c.name).join(', '), //object
-    "resCharges": resData[0].info.cft.text,
-    "resDelivery": resData[0].order.deliveryTime
-}
-
-console.log(Restaurant);
-
 const HomePage = () => {
     return (
         <div className="landing-page">
