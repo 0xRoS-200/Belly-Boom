@@ -2,7 +2,7 @@ import { ShoppingCart, Search } from "lucide-react";
 
 const Navbar = ({ companyname, logo, profileImage }) => {
     return (
-        <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10">
+        <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10 bg-orange-50/60 shadow-orange-100 shadow-sm">
             {/* Logo & Company Name */}
             <div className="flex items-center gap-2">
                 <img
@@ -25,7 +25,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
             {/* Search & Profile Section */}
             <div className="flex items-center gap-8">
                 {/* Search Bar */}
-                <div className="flex items-center bg-[#f0e7e7] text-[#7b2d2d] px-3 py-1 rounded-full gap-2">
+                <div className="flex items-center bg-[#ffffffb9] text-[#ffa600] px-3 py-1 rounded-full gap-2 shadow-sm">
                     <Search />
                     <input
                         type="text"
@@ -35,7 +35,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
                 </div>
 
                 {/* Cart Icon */}
-                <div className="w-8 h-8 bg-[#f0e7e7] flex items-center justify-center rounded-full hover:bg-[#e2d2d2] transition">
+                <div className="w-8 h-8 bg-[#ffffff] flex items-center justify-center rounded-full hover:bg-[#e2d9c2] transition">
                     <ShoppingCart />
                 </div>
 

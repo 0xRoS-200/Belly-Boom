@@ -7,7 +7,7 @@ const profile = new URL("../public/profile.jpeg", import.meta.url)
 
 const HomePage = () => {
     return (
-        <div className="landing-page">
+        <div id="landing-page" className="bg-gradient-to-b from-white via-blue-50 to-orange-100">
             <Navbar logo={c_logo} companyname={"BellyBoom"} profileImage={profile} />
             <Searchbtn />
             <div className="mt-8 ml-10 text-[32px] font-medium">Food Delivery Restaurants in Kolkata</div>
@@ -21,7 +21,7 @@ const HomePage = () => {
                         resCusine: item.info.cuisine.map(c => c.name).join(', '),
                         resCharges: item.info.cft?.text,
                         resDelivery: item.order?.deliveryTime,
-                        resId : item.info.resId
+                        resId: item.info.resId
                     };
 
                     return <RestaurantCard key={restaurant.resId} resData={restaurant} />;
