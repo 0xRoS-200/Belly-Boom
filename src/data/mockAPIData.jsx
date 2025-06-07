@@ -569,140 +569,6 @@ const resData = [
     {
         "type": "restaurant",
         "info": {
-            "resId": 19832497,
-            "name": "South Indian Restaurant",
-            "image": {
-                "url": "https://b.zmtcdn.com/data/pictures/7/19832497/66c8aa49cd2100b8cf92afc60f097fcf_o2_featured_v2.jpg"
-            },
-            "o2FeaturedImage": {
-                "url": "https://b.zmtcdn.com/data/pictures/7/19832497/66c8aa49cd2100b8cf92afc60f097fcf_o2_featured_v2.jpg"
-            },
-            "rating": {
-                "has_fake_reviews": 0,
-                "aggregate_rating": "4.2",
-                "rating_text": "4.2",
-                "rating_subtitle": "Very Good",
-                "rating_color": "5BA829",
-                "votes": "1,321",
-                "subtext": "REVIEW",
-                "is_new": false
-            },
-            "ratingNew": {
-                "newlyOpenedObj": null,
-                "suspiciousReviewObj": null,
-                "ratings": {
-                    "DINING": {
-                        "rating_type": "DINING",
-                        "rating": "",
-                        "reviewCount": "3",
-                        "reviewTextSmall": "3 Reviews",
-                        "subtext": "Does not offer Dining",
-                        "color": "",
-                        "ratingV2": "-",
-                        "subtitle": "DINING",
-                        "sideSubTitle": "Dining Ratings",
-                        "bgColorV2": {
-                            "type": "green",
-                            "tint": "100"
-                        },
-                        "textColorV2": {
-                            "type": "green",
-                            "tint": "500"
-                        },
-                        "newOnDining": false
-                    },
-                    "DELIVERY": {
-                        "rating_type": "DELIVERY",
-                        "rating": "4.2",
-                        "reviewCount": "1,318",
-                        "reviewTextSmall": "1,318 Reviews",
-                        "subtext": "1,318 Delivery Reviews",
-                        "color": "#E23744",
-                        "ratingV2": "4.2",
-                        "subtitle": "DELIVERY",
-                        "sideSubTitle": "Delivery Ratings",
-                        "bgColorV2": {
-                            "type": "green",
-                            "tint": "700"
-                        },
-                        "newOnDelivery": false
-                    }
-                }
-            },
-            "cft": {
-                "text": "₹300 for two"
-            },
-            "cfo": {
-                "text": "₹150 for one"
-            },
-            "locality": {
-                "name": "Park Circus Area, Kolkata",
-                "address": "22 A, Park Circus Area, Kolkata",
-                "localityUrl": "kolkata/park-circus-area-restaurants"
-            },
-            "timing": {
-                "text": "",
-                "color": ""
-            },
-            "cuisine": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/kolkata/restaurants/south-indian/",
-                    "name": "South Indian"
-                }
-            ],
-            "should_ban_ugc": false,
-            "costText": {
-                "text": "₹150 for one"
-            }
-        },
-        "order": {
-            "deliveryTime": "36 min",
-            "isServiceable": true,
-            "hasOnlineOrdering": true,
-            "actionInfo": {
-                "text": "Order Now",
-                "clickUrl": "/kolkata/south-indian-restaurant-3-park-circus-area/order"
-            }
-        },
-        "gold": [],
-        "takeaway": [],
-        "cardAction": {
-            "text": "",
-            "clickUrl": "/kolkata/south-indian-restaurant-3-park-circus-area/order",
-            "clickActionDeeplink": ""
-        },
-        "distance": "3.6 km",
-        "isPromoted": false,
-        "promotedText": "",
-        "trackingData": [
-            {
-                "table_name": "zsearch_events_log",
-                "payload": "{\"search_id\":\"2fa93b00-7b7e-4946-a3e0-f62296f73212\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19832497\",\"element_type\":\"listing\",\"rank\":5}",
-                "event_names": {
-                    "tap": "{\"action\":\"tap\"}",
-                    "impression": "{\"action\":\"impression\"}"
-                }
-            }
-        ],
-        "allCTA": [],
-        "promoOffer": "",
-        "checkBulkOffers": true,
-        "bulkOffers": [
-            {
-                "text": "₹200 OFF",
-                "color": {
-                    "tint": "500",
-                    "type": "blue"
-                }
-            }
-        ],
-        "isDisabled": false,
-        "bottomContainers": []
-    },
-    {
-        "type": "restaurant",
-        "info": {
             "resId": 20384419,
             "name": "Suchali's Artisan Bakehouse",
             "image": {
@@ -3409,7 +3275,3562 @@ const resData = [
         "bulkOffers": [],
         "isDisabled": false,
         "bottomContainers": []
-    }
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20813790,
+            "name": "O Ma Me - Homemade Meals By Maa",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/20813790\/bb963095f0736e56fead50139780b05b_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/20813790\/bb963095f0736e56fead50139780b05b_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.1",
+                "rating_text": "4.1",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "2,573",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.9",
+                        "reviewCount": "4",
+                        "reviewTextSmall": "4 Reviews",
+                        "subtext": "4 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.9",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "600"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.2",
+                        "reviewCount": "2,569",
+                        "reviewTextSmall": "2,569 Reviews",
+                        "subtext": "2,569 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.2",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9300 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Kalighat, Kolkata",
+                "address": "46A, Ground Floor, Gurupada Halder Road, Kalighat, Kolkata",
+                "localityUrl": "kolkata\/kalighat-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "51 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/o-ma-me-homemade-meals-by-maa-kalighat\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/o-ma-me-homemade-meals-by-maa-kalighat\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "6 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20813790\",\"element_type\":\"listing\",\"rank\":1}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9200 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 18143247,
+            "name": "Veggie Corner",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/18143247\/bf4f7bec6669f6d3f8951c8a28c614d2_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/18143247\/bf4f7bec6669f6d3f8951c8a28c614d2_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.0",
+                "rating_text": "4.0",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "18.6K",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.8",
+                        "reviewCount": "554",
+                        "reviewTextSmall": "554 Reviews",
+                        "subtext": "554 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.8",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "600"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.2",
+                        "reviewCount": "18K",
+                        "reviewTextSmall": "18K Reviews",
+                        "subtext": "18K Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.2",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9350 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Liluah, Howrah",
+                "address": "Shop-4, 266\/4, Bally-jagacha, Green Town Road, Liluah, Howrah",
+                "localityUrl": "kolkata\/liluah-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/fast-food\/",
+                    "name": "Fast Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "54 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/veggie-corner-liluah-howrah\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/veggie-corner-liluah-howrah\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18143247\",\"element_type\":\"listing\",\"rank\":2}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b975 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 18461764,
+            "name": "Saatvik",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/18461764\/fd54d0e8921853a6c2415a4e8b7611b1_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/18461764\/fd54d0e8921853a6c2415a4e8b7611b1_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.1",
+                "rating_text": "4.1",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "5,577",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "4.1",
+                        "reviewCount": "338",
+                        "reviewTextSmall": "338 Reviews",
+                        "subtext": "338 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "4.1",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.1",
+                        "reviewCount": "5,239",
+                        "reviewTextSmall": "5,239 Reviews",
+                        "subtext": "5,239 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.1",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9950 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Paddapukur, Kolkata",
+                "address": "1C, Madhav Chatterjee Street, Paddapukur, Kolkata",
+                "localityUrl": "kolkata\/paddapukur-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/continental\/",
+                    "name": "Continental"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/italian\/",
+                    "name": "Italian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/biryani\/",
+                    "name": "Biryani"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "51 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/saatvik-paddapukur\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/saatvik-paddapukur\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "4.6 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18461764\",\"element_type\":\"listing\",\"rank\":3}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9150 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 18568387,
+            "name": "Machhli Baba Fries",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/18513005\/49f9beea37726f8c837e9fbb7c804af8_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/18513005\/49f9beea37726f8c837e9fbb7c804af8_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.1",
+                "rating_text": "4.1",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "3,151",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.1",
+                        "reviewCount": "3,151",
+                        "reviewTextSmall": "3,151 Reviews",
+                        "subtext": "3,151 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.1",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9300 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Chandni Chowk, Kolkata",
+                "address": "71, First Floor, Bentinck Street, Faraday House, Chandni Chowk, Kolkata",
+                "localityUrl": "kolkata\/chandni-chowk-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bengali\/",
+                    "name": "Bengali"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/street-food\/",
+                    "name": "Street Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/rolls\/",
+                    "name": "Rolls"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/kebab\/",
+                    "name": "Kebab"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/fast-food\/",
+                    "name": "Fast Food"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "39 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/machhli-baba-fries-chandni-chowk\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/machhli-baba-fries-chandni-chowk\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "1.1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18568387\",\"element_type\":\"listing\",\"rank\":4}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9100 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 21146,
+            "name": "Sharma Dhaba",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/21146\/63e4b8b51e15f50434b9f85cdb6aac10_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/21146\/63e4b8b51e15f50434b9f85cdb6aac10_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.0",
+                "rating_text": "4.0",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "31.8K",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.9",
+                        "reviewCount": "1,010",
+                        "reviewTextSmall": "1,010 Reviews",
+                        "subtext": "1,010 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.9",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "600"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.1",
+                        "reviewCount": "30.8K",
+                        "reviewTextSmall": "30.8K Reviews",
+                        "subtext": "30.8K Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.1",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9950 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Paddapukur, Kolkata",
+                "address": "17\/1B, Pramathesh Barua Sarani, Ward 69, Paddapukur, Kolkata",
+                "localityUrl": "kolkata\/paddapukur-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/biryani\/",
+                    "name": "Biryani"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/kebab\/",
+                    "name": "Kebab"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/rolls\/",
+                    "name": "Rolls"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "40 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/sharma-dhaba-paddapukur\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/sharma-dhaba-paddapukur\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "4.3 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"21146\",\"element_type\":\"listing\",\"rank\":5}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9175 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 18531241,
+            "name": "Momo I Am",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18198678\/efd3668a1e8c6c57a7537cb267a71062_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/18198678\/efd3668a1e8c6c57a7537cb267a71062_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.4",
+                "rating_text": "4.4",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "16K",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "4.4",
+                        "reviewCount": "2,435",
+                        "reviewTextSmall": "2,435 Reviews",
+                        "subtext": "2,435 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "4.4",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.3",
+                        "reviewCount": "13.5K",
+                        "reviewTextSmall": "13.5K Reviews",
+                        "subtext": "13.5K Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.3",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b91,200 for two"
+            },
+            "cfo": {
+                "text": "\u20b9500 for one"
+            },
+            "locality": {
+                "name": "Sector 1, Salt Lake, Kolkata",
+                "address": "CD 18, Near Kalyan Jewelers, City Centre 1, Sector 1, Salt Lake, Kolkata",
+                "localityUrl": "kolkata\/sector-1-salt-lake-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/momos\/",
+                    "name": "Momos"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTNcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/tibetan\/",
+                    "name": "Tibetan"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/asian\/",
+                    "name": "Asian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/thai\/",
+                    "name": "Thai"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9500 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "52 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/momo-i-am-sector-1-salt-lake\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/momo-i-am-sector-1-salt-lake\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18531241\",\"element_type\":\"listing\",\"rank\":6}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20554749,
+            "name": "Chow's Nano Duzi",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/7\/20554227\/535c720478379dddab7b853323ade0cf_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/7\/20554227\/535c720478379dddab7b853323ade0cf_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.1",
+                "rating_text": "4.1",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "1,123",
+                "subtext": "REVIEW",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.1",
+                        "reviewCount": "1,123",
+                        "reviewTextSmall": "1,123 Reviews",
+                        "subtext": "1,123 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.1",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9550 for two"
+            },
+            "cfo": {
+                "text": "\u20b9250 for one"
+            },
+            "locality": {
+                "name": "Hatibagan, Kolkata",
+                "address": "118, Ground Floor, Raja Dinendra Street, Hatibagan, Kolkata",
+                "localityUrl": "kolkata\/hatibagan-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/thai\/",
+                    "name": "Thai"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9250 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "35 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/chows-nano-duzi-hatibagan\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/chows-nano-duzi-hatibagan\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "2.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20554749\",\"element_type\":\"listing\",\"rank\":7}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9150 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 24390,
+            "name": "Ganguram",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/24390\/c65f61ddb972e4e22227c6f565fa669e_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/24390\/c65f61ddb972e4e22227c6f565fa669e_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.3",
+                "rating_text": "4.3",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "3,513",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.3",
+                        "reviewCount": "3,513",
+                        "reviewTextSmall": "3,513 Reviews",
+                        "subtext": "3,513 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.3",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9200 for two"
+            },
+            "cfo": {
+                "text": "\u20b9100 for one"
+            },
+            "locality": {
+                "name": "Maniktala, Kolkata",
+                "address": "123\/2, Acharya Prafulla Chandra Road, Opposite Scottish Church Collegiate School, Maniktala, Kolkata",
+                "localityUrl": "kolkata\/maniktala-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/mishti\/",
+                    "name": "Mishti"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9100 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "21 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/ganguram-maniktala\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/ganguram-maniktala\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "1.9 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"24390\",\"element_type\":\"listing\",\"rank\":8}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 19516394,
+            "name": "Sweet Truth - Cake and Desserts",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19516394\/8815ea66bf6447519d6b7966f7ef7126_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/19516394\/8815ea66bf6447519d6b7966f7ef7126_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.4",
+                "rating_text": "4.4",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "1,959",
+                "subtext": "REVIEW",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.4",
+                        "reviewCount": "1,959",
+                        "reviewTextSmall": "1,959 Reviews",
+                        "subtext": "1,959 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.4",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9600 for two"
+            },
+            "cfo": {
+                "text": "\u20b9250 for one"
+            },
+            "locality": {
+                "name": "Beliaghata, Kolkata",
+                "address": "64\/3\/1, Ground Floor, Dr Suresh Chandra Banerjee Road, Beliaghata, Kolkata",
+                "localityUrl": "kolkata\/beliaghata-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bakery\/",
+                    "name": "Bakery"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/ice-cream\/",
+                    "name": "Ice Cream"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9250 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "33 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/sweet-truth-cake-and-desserts-beliaghata\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/sweet-truth-cake-and-desserts-beliaghata\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "3.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19516394\",\"element_type\":\"listing\",\"rank\":9}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9125 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 19513861,
+            "name": "Tok Jhal Misti",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/19513861\/30b7e2859aa6ad19a5f87496b582ad14_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/19513861\/30b7e2859aa6ad19a5f87496b582ad14_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "3.8",
+                "rating_text": "3.8",
+                "rating_subtitle": "Good",
+                "rating_color": "9ACD32",
+                "votes": "4,242",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.4",
+                        "reviewCount": "9",
+                        "reviewTextSmall": "9 Reviews",
+                        "subtext": "9 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.4",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "yellow",
+                            "tint": "400"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.2",
+                        "reviewCount": "4,233",
+                        "reviewTextSmall": "4,233 Reviews",
+                        "subtext": "4,233 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.2",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9300 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Salkia, Howrah",
+                "address": "151, Benaras Road, Salkia, Howrah",
+                "localityUrl": "kolkata\/salkia-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bengali\/",
+                    "name": "Bengali"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "62 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/tok-jhal-misti-salkia-howrah\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/tok-jhal-misti-salkia-howrah\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "4.1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19513861\",\"element_type\":\"listing\",\"rank\":10}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9175 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 19270018,
+            "name": "Bake India",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/19270018\/75d5b6b0c64b7bd0a8033c7715ea0794_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/19270018\/75d5b6b0c64b7bd0a8033c7715ea0794_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.0",
+                "rating_text": "4.0",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "261",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.0",
+                        "reviewCount": "261",
+                        "reviewTextSmall": "261 Reviews",
+                        "subtext": "261 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.0",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9400 for two"
+            },
+            "cfo": {
+                "text": "\u20b9200 for one"
+            },
+            "locality": {
+                "name": "Kankurgachi, Kolkata",
+                "address": "P-169, C.I.T, Scheme 7 M, Ward 32, Kankurgachi, Kolkata",
+                "localityUrl": "kolkata\/kankurgachi-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bakery\/",
+                    "name": "Bakery"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/fast-food\/",
+                    "name": "Fast Food"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9200 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "46 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/bake-india-kankurgachi\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/bake-india-kankurgachi\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "3.6 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19270018\",\"element_type\":\"listing\",\"rank\":11}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9175 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 18665242,
+            "name": "Starbucks Coffee",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18665242\/865644c657795bfe203fcc3826f6ef11_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18665242\/865644c657795bfe203fcc3826f6ef11_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.2",
+                "rating_text": "4.2",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "6,198",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "4.1",
+                        "reviewCount": "1,498",
+                        "reviewTextSmall": "1,498 Reviews",
+                        "subtext": "1,498 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "4.1",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.3",
+                        "reviewCount": "4,700",
+                        "reviewTextSmall": "4,700 Reviews",
+                        "subtext": "4,700 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.3",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9900 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Park Street Area, Kolkata",
+                "address": "57 A, Ground Floor, Park Mansions, Park Street Area, Kolkata",
+                "localityUrl": "kolkata\/park-street-area-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/cafes\/",
+                    "name": "Cafe"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/coffee\/",
+                    "name": "Coffee"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "32 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/starbucks-coffee-park-street-area\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/starbucks-coffee-park-street-area\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "2.5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"b0e0b1be-fe2d-4629-880c-ef72f95e89a2\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18665242\",\"element_type\":\"listing\",\"rank\":12}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9100 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20749213,
+            "name": "The Betel Leaf Co - PAAN Originally from Bangalore",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/20749213\/924ee029d655c8bfa78b1134d1443848_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/20749213\/924ee029d655c8bfa78b1134d1443848_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.4",
+                "rating_text": "4.4",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "148",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.4",
+                        "reviewCount": "148",
+                        "reviewTextSmall": "148 Reviews",
+                        "subtext": "148 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.4",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9200 for two"
+            },
+            "cfo": {
+                "text": "\u20b9100 for one"
+            },
+            "locality": {
+                "name": "Kankurgachi, Kolkata",
+                "address": "175\/P\/1, Borough- III, Manicktala Main Road, Kankurgachi, Kolkata",
+                "localityUrl": "kolkata\/kankurgachi-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0OFwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/paan\/",
+                    "name": "Paan"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9100 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "43 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/the-betel-leaf-co-paan-originally-from-bangalore-kankurgachi\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/the-betel-leaf-co-paan-originally-from-bangalore-kankurgachi\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "3.4 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20749213\",\"element_type\":\"listing\",\"rank\":1}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9125 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20482926,
+            "name": "Bong Kichen",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/20482926\/669ab12243a17d5207cb15a4027ae8d9_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/20482926\/669ab12243a17d5207cb15a4027ae8d9_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "456",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "456",
+                        "reviewTextSmall": "456 Reviews",
+                        "subtext": "456 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9200 for two"
+            },
+            "cfo": {
+                "text": "\u20b9100 for one"
+            },
+            "locality": {
+                "name": "Liluah, Howrah",
+                "address": "119, Udaygarh Colony, Chakpara Road, Liluah, Howrah",
+                "localityUrl": "kolkata\/liluah-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bengali\/",
+                    "name": "Bengali"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/health-food\/",
+                    "name": "Healthy Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/street-food\/",
+                    "name": "Street Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9100 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "99 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/bong-kichen-liluah-howrah\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/bong-kichen-liluah-howrah\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "6.3 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20482926\",\"element_type\":\"listing\",\"rank\":2}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "Flat 10% OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20746372,
+            "name": "Baraka",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20746372\/a4e72f87e92651517d2d5279364f2871_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20746372\/a4e72f87e92651517d2d5279364f2871_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "305",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "4.4",
+                        "reviewCount": "193",
+                        "reviewTextSmall": "193 Reviews",
+                        "subtext": "193 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "4.4",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "112",
+                        "reviewTextSmall": "112 Reviews",
+                        "subtext": "112 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b91,000 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Park Circus Area, Kolkata",
+                "address": "33, Quest Mall, Level 5, Syed Amir Ali Ave, Park Circus Area, Kolkata",
+                "localityUrl": "kolkata\/park-circus-area-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTM3XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/middle-eastern\/",
+                    "name": "Middle Eastern"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "55 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/baraka-park-circus-area\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/baraka-park-circus-area\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "3.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20746372\",\"element_type\":\"listing\",\"rank\":3}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 19537183,
+            "name": "Omelette King",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/19537183\/2658c86b9fbf6d68880c65bcaedd8704_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/19537183\/2658c86b9fbf6d68880c65bcaedd8704_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "501",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "501",
+                        "reviewTextSmall": "501 Reviews",
+                        "subtext": "501 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9350 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Kalighat, Kolkata",
+                "address": "11H, Ground Floor, Satyendra Nath Majumder Sarani, Manohar Pukur Road, Kalighat, Kolkata",
+                "localityUrl": "kolkata\/kalighat-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/continental\/",
+                    "name": "Continental"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/street-food\/",
+                    "name": "Street Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "49 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/omelette-king-kalighat\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/omelette-king-kalighat\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19537183\",\"element_type\":\"listing\",\"rank\":4}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9250 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20499411,
+            "name": "Host Chinese Restaurant",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20499411\/3a1c368200bd3a15ff8cd8d40b99abaf_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20499411\/3a1c368200bd3a15ff8cd8d40b99abaf_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "141",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "1",
+                        "reviewTextSmall": "1 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "140",
+                        "reviewTextSmall": "140 Reviews",
+                        "subtext": "140 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b91,000 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Lake Town, Kolkata",
+                "address": "P-174 Lake Town, Block-B, Lake Town, Kolkata",
+                "localityUrl": "kolkata\/lake-town-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "54 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/host-chinese-restaurant-2-lake-town\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/host-chinese-restaurant-2-lake-town\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.4 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20499411\",\"element_type\":\"listing\",\"rank\":5}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 21110552,
+            "name": "The Bake House",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/21110552\/20a8e74990912220c984c956daa77ef1_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/21110552\/20a8e74990912220c984c956daa77ef1_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "124",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "124",
+                        "reviewTextSmall": "124 Reviews",
+                        "subtext": "124 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9250 for two"
+            },
+            "cfo": {
+                "text": "\u20b9100 for one"
+            },
+            "locality": {
+                "name": "Kankurgachi, Kolkata",
+                "address": "36\/2B, Burra Park, Ramakrishna Samadhi Road, Kankurgachi, Kolkata",
+                "localityUrl": "kolkata\/kankurgachi-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/bakery\/",
+                    "name": "Bakery"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/desserts\/",
+                    "name": "Desserts"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9100 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "39 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/the-bake-house-kankurgachi\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/the-bake-house-kankurgachi\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "3 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"21110552\",\"element_type\":\"listing\",\"rank\":6}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9200 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20133711,
+            "name": "Bhikharam Chandmal Rajuji",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20133711\/5196a15436ee0262c7d7ff748ef793fc_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20133711\/5196a15436ee0262c7d7ff748ef793fc_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.3",
+                "rating_text": "4.3",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "1,348",
+                "subtext": "REVIEW",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "3",
+                        "reviewTextSmall": "3 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.3",
+                        "reviewCount": "1,345",
+                        "reviewTextSmall": "1,345 Reviews",
+                        "subtext": "1,345 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.3",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9300 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Girish Park, Kolkata",
+                "address": "109, Muktaram Babu Street, Near Ram Mandir, Girish Park, Kolkata",
+                "localityUrl": "kolkata\/girish-park-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/mishti\/",
+                    "name": "Mishti"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/south-indian\/",
+                    "name": "South Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/street-food\/",
+                    "name": "Street Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/fast-food\/",
+                    "name": "Fast Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/shake\/",
+                    "name": "Shake"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "26 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/bhikharam-chandmal-rajuji-girish-park\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/bhikharam-chandmal-rajuji-girish-park\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "1.1 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20133711\",\"element_type\":\"listing\",\"rank\":7}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 19981646,
+            "name": "The Brooklyn Creamery - Healthy Ice Cream",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19492133\/f230c8e9c70913b6886ccdaca69c9fe4_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/3\/19492133\/f230c8e9c70913b6886ccdaca69c9fe4_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "138",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "138",
+                        "reviewTextSmall": "138 Reviews",
+                        "subtext": "138 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9300 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Picnic Garden, Kolkata",
+                "address": "36 F, Topsia Road, Kolkata Municipal Corporation, Picnic Garden, Kolkata",
+                "localityUrl": "kolkata\/picnic-garden-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/ice-cream\/",
+                    "name": "Ice Cream"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "39 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/the-brooklyn-creamery-healthy-ice-cream-picnic-garden\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/the-brooklyn-creamery-healthy-ice-cream-picnic-garden\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19981646\",\"element_type\":\"listing\",\"rank\":8}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9175 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 23233,
+            "name": "Jimmy's Restaurant",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/23233\/a047ab546b56014bfd3050b8b05d20e0_featured_v2.jpg",
+                "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/23233\/a047ab546b56014bfd3050b8b05d20e0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+            },
+            "o2FeaturedImage": {
+                "url": false
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.0",
+                "rating_text": "4.0",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "362",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.5",
+                        "reviewCount": "237",
+                        "reviewTextSmall": "237 Reviews",
+                        "subtext": "237 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.5",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "125",
+                        "reviewTextSmall": "125 Reviews",
+                        "subtext": "125 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9700 for two"
+            },
+            "cfo": {
+                "text": "\u20b9300 for one"
+            },
+            "locality": {
+                "name": "New Market Area, Kolkata",
+                "address": "14D, Lindsay  Street, New Market Area, Kolkata",
+                "localityUrl": "kolkata\/new-market-area-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/sea-food\/",
+                    "name": "Seafood"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/sichuan\/",
+                    "name": "Sichuan"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9300 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "41 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/jimmys-restaurant-new-market-area\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/jimmys-restaurant-new-market-area\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "1.8 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"23233\",\"element_type\":\"listing\",\"rank\":9}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20149,
+            "name": "Crystaline",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/20149\/a723de5706a03ad67c7583a8d7d16db4_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/20149\/a723de5706a03ad67c7583a8d7d16db4_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "3.9",
+                "rating_text": "3.9",
+                "rating_subtitle": "Good",
+                "rating_color": "9ACD32",
+                "votes": "324",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.3",
+                        "reviewCount": "164",
+                        "reviewTextSmall": "164 Reviews",
+                        "subtext": "164 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.3",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "yellow",
+                            "tint": "400"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "160",
+                        "reviewTextSmall": "160 Reviews",
+                        "subtext": "160 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9900 for two"
+            },
+            "cfo": {
+                "text": "\u20b9400 for one"
+            },
+            "locality": {
+                "name": "Gariahat, Kolkata",
+                "address": "15\/1A, Gariahat Road, Gariahat, Kolkata",
+                "localityUrl": "kolkata\/gariahat-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/continental\/",
+                    "name": "Continental"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/asian\/",
+                    "name": "Asian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/sea-food\/",
+                    "name": "Seafood"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9400 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "63 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/crystaline-gariahat\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/crystaline-gariahat\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.7 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20149\",\"element_type\":\"listing\",\"rank\":11}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20881,
+            "name": "Moulin Rouge",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20881\/5f0c3b6c92e7f92b6321a0aa43a98f87_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/1\/20881\/5f0c3b6c92e7f92b6321a0aa43a98f87_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.1",
+                "rating_text": "4.1",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "1,413",
+                "subtext": "REVIEW",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "3.6",
+                        "reviewCount": "1,076",
+                        "reviewTextSmall": "1,076 Reviews",
+                        "subtext": "1,076 Dining Reviews",
+                        "color": "#1C1C1C",
+                        "ratingV2": "3.6",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "337",
+                        "reviewTextSmall": "337 Reviews",
+                        "subtext": "337 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b91,400 for two"
+            },
+            "cfo": {
+                "text": "\u20b9600 for one"
+            },
+            "locality": {
+                "name": "Park Street Area, Kolkata",
+                "address": "31, Park Street Area, Kolkata",
+                "localityUrl": "kolkata\/park-street-area-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/mughlai\/",
+                    "name": "Mughlai"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/kebab\/",
+                    "name": "Kebab"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/salad\/",
+                    "name": "Salad"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/sea-food\/",
+                    "name": "Seafood"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/ice-cream\/",
+                    "name": "Ice Cream"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9600 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "54 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/moulin-rouge-park-street-area\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/moulin-rouge-park-street-area\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "2.5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20881\",\"element_type\":\"listing\",\"rank\":12}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 20748398,
+            "name": "Parathe Wali Gali",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/20748398\/347b00afeb6ff9a2bf2b18bcc53157e5_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/20748398\/347b00afeb6ff9a2bf2b18bcc53157e5_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.5",
+                "rating_text": "4.5",
+                "rating_subtitle": "Excellent",
+                "rating_color": "3F7E00",
+                "votes": "132",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "0",
+                        "reviewTextSmall": "0 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.5",
+                        "reviewCount": "132",
+                        "reviewTextSmall": "132 Reviews",
+                        "subtext": "132 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.5",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "800"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9200 for two"
+            },
+            "cfo": {
+                "text": "\u20b9100 for one"
+            },
+            "locality": {
+                "name": "Shibpur, Howrah",
+                "address": "FL-6, 20\/4, LP 430\/2\/1\/1\/0, 3rd Floor, Opposite Lords Nursing Home, Circular Road, Shibpur, Howrah",
+                "localityUrl": "kolkata\/shibpur-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/north-indian\/",
+                    "name": "North Indian"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9100 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "61 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/parathe-wali-gali-shibpur-howrah\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/parathe-wali-gali-shibpur-howrah\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "5.5 km",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"2e219184-f04b-473e-85bf-993b7faff68d\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20748398\",\"element_type\":\"listing\",\"rank\":1}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
+    {
+        "type": "restaurant",
+        "info": {
+            "resId": 21363788,
+            "name": "Wow! Momo",
+            "image": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/21363788\/b23ef9e9ee5409c9c31ef0d262b9f4d2_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+                "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/8\/21363788\/b23ef9e9ee5409c9c31ef0d262b9f4d2_o2_featured_v2.jpg"
+            },
+            "rating": {
+                "has_fake_reviews": 0,
+                "aggregate_rating": "4.3",
+                "rating_text": "4.3",
+                "rating_subtitle": "Very Good",
+                "rating_color": "5BA829",
+                "votes": "560",
+                "subtext": "REVIEWS",
+                "is_new": false
+            },
+            "ratingNew": {
+                "newlyOpenedObj": null,
+                "suspiciousReviewObj": null,
+                "ratings": {
+                    "DINING": {
+                        "rating_type": "DINING",
+                        "rating": "",
+                        "reviewCount": "1",
+                        "reviewTextSmall": "1 Reviews",
+                        "subtext": "Does not offer Dining",
+                        "color": "",
+                        "ratingV2": "-",
+                        "subtitle": "DINING",
+                        "sideSubTitle": "Dining Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "100"
+                        },
+                        "textColorV2": {
+                            "type": "green",
+                            "tint": "500"
+                        },
+                        "newOnDining": false
+                    },
+                    "DELIVERY": {
+                        "rating_type": "DELIVERY",
+                        "rating": "4.3",
+                        "reviewCount": "559",
+                        "reviewTextSmall": "559 Reviews",
+                        "subtext": "559 Delivery Reviews",
+                        "color": "#E23744",
+                        "ratingV2": "4.3",
+                        "subtitle": "DELIVERY",
+                        "sideSubTitle": "Delivery Ratings",
+                        "bgColorV2": {
+                            "type": "green",
+                            "tint": "700"
+                        },
+                        "newOnDelivery": false
+                    }
+                }
+            },
+            "cft": {
+                "text": "\u20b9350 for two"
+            },
+            "cfo": {
+                "text": "\u20b9150 for one"
+            },
+            "locality": {
+                "name": "Sealdah Area, Kolkata",
+                "address": "Shop 1, Sealdah Railway Station, Sealdah Area, Kolkata",
+                "localityUrl": "kolkata\/sealdah-area-restaurants"
+            },
+            "timing": {
+                "text": "",
+                "color": ""
+            },
+            "cuisine": [
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/momos\/",
+                    "name": "Momos"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/chinese\/",
+                    "name": "Chinese"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/fast-food\/",
+                    "name": "Fast Food"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/asian\/",
+                    "name": "Asian"
+                },
+                {
+                    "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                    "url": "https:\/\/www.zomato.com\/kolkata\/restaurants\/beverages\/",
+                    "name": "Beverages"
+                }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+                "text": "\u20b9150 for one"
+            }
+        },
+        "order": {
+            "deliveryTime": "33 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+                "text": "Order Now",
+                "clickUrl": "\/kolkata\/wow-momo-sealdah-area\/order"
+            }
+        },
+        "gold": [],
+        "takeaway": [],
+        "cardAction": {
+            "text": "",
+            "clickUrl": "\/kolkata\/wow-momo-sealdah-area\/order",
+            "clickActionDeeplink": ""
+        },
+        "distance": "984 m",
+        "isPromoted": false,
+        "promotedText": "",
+        "trackingData": [
+            {
+                "table_name": "zsearch_events_log",
+                "payload": "{\"search_id\":\"f64ee5e8-1b76-431a-b850-3c2a9485994a\",\"location_type\":\"delivery_cell\",\"location_id\":\"4180033504081346560\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"21363788\",\"element_type\":\"listing\",\"rank\":1}",
+                "event_names": {
+                    "tap": "{\"action\":\"tap\"}",
+                    "impression": "{\"action\":\"impression\"}"
+                }
+            }
+        ],
+        "allCTA": [],
+        "promoOffer": "",
+        "checkBulkOffers": true,
+        "bulkOffers": [
+            {
+                "text": "\u20b9200 OFF",
+                "color": {
+                    "tint": "500",
+                    "type": "blue"
+                }
+            }
+        ],
+        "isDisabled": false,
+        "bottomContainers": []
+    },
 ]
 
 export default resData;

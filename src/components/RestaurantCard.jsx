@@ -13,9 +13,9 @@ const RestaurantCard = ({ resData }) => {
           <p className="text-lg font-semibold truncate w-[160px]">{resName}</p>
         </Tooltip>
 
-        <span className="flex text-[12px] gap-1 items-center bg-green-400 rounded-xl p-1">
+        <span className="flex text-[12px] gap-1 items-center bg-green-400 rounded-xl p-1 text-white text-md">
           {resRating}
-          <Star size={12} color="black" strokeWidth={1} />
+          <Star size={12} color="white" fill="#ffffff"/>
         </span>
       </div>
 

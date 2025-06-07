@@ -1,8 +1,8 @@
-import { ShoppingCart, Search } from "lucide-react";
+import { ShoppingCart } from "lucide-react";
 
 const Navbar = ({ companyname, logo, profileImage }) => {
     return (
-        <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10 bg-orange-50/60 shadow-orange-100 shadow-sm">
+        <div className="w-full h-16 border-b border-gray-200 flex items-center justify-between px-10 shadow-orange-100 shadow-sm">
             {/* Logo & Company Name */}
             <div className="flex items-center gap-2">
                 <img
@@ -22,20 +22,10 @@ const Navbar = ({ companyname, logo, profileImage }) => {
                 </div>
             </div>
 
-            {/* Search & Profile Section */}
+            {/*Profile Section */}
             <div className="flex items-center gap-8">
-                {/* Search Bar */}
-                <div className="flex items-center bg-[#ffffffb9] text-[#ffa600] px-3 py-1 rounded-full gap-2 shadow-sm">
-                    <Search />
-                    <input
-                        type="text"
-                        placeholder="Search"
-                        className="bg-transparent outline-none transition-all duration-200 w-24 focus:w-48"
-                    />
-                </div>
-
                 {/* Cart Icon */}
-                <div className="w-8 h-8 bg-[#ffffff] flex items-center justify-center rounded-full hover:bg-[#e2d9c2] transition">
+                <div className="w-8 h-8 bg-[#ffffff] flex items-center justify-center rounded-full hover:bg-[#fbe3c2] transition">
                     <ShoppingCart />
                 </div>
 
@@ -43,7 +33,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
                 <img
                     src={profileImage}
                     alt="User Profile"
-                    className="w-9 h-9 rounded-full object-cover border-zinc-500 border"
+                    className="w-9 h-9 rounded-full object-cover border-zinc-500 border hover:scale-110 hover:shadow-amber-300 shadow-md"
                 />
             </div>
         </div>

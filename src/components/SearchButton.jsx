@@ -1,7 +1,7 @@
 import { Search, LocateFixed, ChevronDown } from "lucide-react";
-import { useState } from "react";
 
-const Searchbtn = () => {
+const Searchbtn = ({ searchText, setSearchText }) => {
+  
   return (
     <div id="searchbox" className="flex ml-10 mt-10">
       <div className="flex items-center w-[600px] rounded-lg shadow-sm/30 px-4 py-2 bg-white">
@@ -22,6 +22,8 @@ const Searchbtn = () => {
             type="text"
             placeholder="Search for restaurant, cuisine or a dish"
             className="w-full outline-none text-sm placeholder-gray-400"
+            value={searchText}
+            onChange={(e) => setSearchText(e.target.value)}
           />
         </div>
       </div>
