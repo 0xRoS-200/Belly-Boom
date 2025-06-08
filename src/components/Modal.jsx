@@ -20,7 +20,7 @@ const Modal = ({ open, onClose, children }) => {
             className={`fixed inset-0 flex justify-center items-center transition-colors ${open ? "visible bg-black/70" : "invisible"
                 } z-20`}
         >
-            <div className="relative w-[700px] h-[450px] border bg-white rounded-xl shadow-md p-6 top-10">
+            <div className="relative w-[700px] h-[450px] border bg-white rounded-lg shadow-md top-10">
                 {/* Close button */}
                 <button
                     className="absolute top-4 right-4 text-white p-1 bg-red-500 rounded-[50%] hover:text-black hover:bg-red-300"
