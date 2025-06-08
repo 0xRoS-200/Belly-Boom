@@ -6,7 +6,7 @@ const FilterButton = ({ sortOption, setSortOption }) => {
     const [open, setOpen] = useState(false);
     const [activeTab, setActiveTab] = useState("Sort by");
     const selectedSort = sortOption;
-    const tabs = ["Sort by", "Cuisines", "Rating", "Cost Per Person"];
+    const tabs = ["Sort by"];
 
     const renderRightPanel = () => {
         switch (activeTab) {
@@ -28,12 +28,6 @@ const FilterButton = ({ sortOption, setSortOption }) => {
                         ))}
                     </ul>
                 );
-            case "Cuisines":
-                return <p>Checkbox list for cuisines goes here.</p>;
-            case "Rating":
-                return <p>Rating filters or sliders go here.</p>;
-            case "Cost Per Person":
-                return <p>Cost range options go here.</p>;
             default:
                 return null;
         }

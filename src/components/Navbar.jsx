@@ -10,7 +10,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
                     alt="Company Logo"
                     className="w-10 h-10 rounded-full object-cover"
                 />
-                <p className="text-lg font-semibold">{companyname}</p>
+                <p className="text-lg font-semibold text-orange-500 cursor-pointer">{companyname}</p>
 
                 {/* Navigation Links */}
                 <div className="ml-4">
@@ -25,7 +25,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
             {/*Profile Section */}
             <div className="flex items-center gap-8">
                 {/* Cart Icon */}
-                <div className="w-8 h-8 bg-[#ffffff] flex items-center justify-center rounded-full hover:bg-[#fbe3c2] transition">
+                <div className="w-8 h-8 bg-[#ffffff] flex items-center justify-center rounded-full cursor-pointer hover:bg-[#fbe3c2] transition">
                     <ShoppingCart />
                 </div>
 
@@ -33,7 +33,7 @@ const Navbar = ({ companyname, logo, profileImage }) => {
                 <img
                     src={profileImage}
                     alt="User Profile"
-                    className="w-9 h-9 rounded-full object-cover border-zinc-500 border hover:scale-110 hover:shadow-amber-300 shadow-md"
+                    className="w-9 h-9 rounded-full object-cover border-zinc-500 border hover:scale-110 cursor-pointer hover:shadow-amber-300 shadow-md"
                 />
             </div>
         </div>
