@@ -2,10 +2,10 @@ import { ListFilter } from "lucide-react";
 import { useState } from "react";
 import Modal from "./Modal";
 
-const FilterButton = () => {
+const FilterButton = ({ sortOption, setSortOption }) => {
     const [open, setOpen] = useState(false);
     const [activeTab, setActiveTab] = useState("Sort by");
-
+    const selectedSort = sortOption;
     const tabs = ["Sort by", "Cuisines", "Rating", "Cost Per Person"];
 
     const renderRightPanel = () => {
@@ -13,41 +13,20 @@ const FilterButton = () => {
             case "Sort by":
                 return (
                     <ul className="flex flex-col gap-5 text-md text-gray-700">
-                        <li className="flex items-center gap-2">
-                            <input
-                                type="radio"
-                                name="sort"
-                                className="form-radio accent-[#f51414] w-4 h-4"
-                                defaultChecked
-                            />
-                            <label>Popularity</label>
-                        </li>
-                        <li className="flex items-center gap-2">
-                            <input
-                                type="radio"
-                                name="sort"
-                                className="form-radio accent-[#f51414] w-4 h-4"
-                            />
-                            <label>Rating: High to Low</label>
-                        </li>
-                        <li className="flex items-center gap-2">
-                            <input
-                                type="radio"
-                                name="sort"
-                                className="form-radio accent-[#f51414] w-4 h-4"
-                            />
-                            <label>Cost: Low to High</label>
-                        </li>
-                        <li className="flex items-center gap-2">
-                            <input
-                                type="radio"
-                                name="sort"
-                                className="form-radio accent-[#f51414] w-4 h-4"
-                            />
-                            <label>Cost: High to Low</label>
-                        </li>
+                        {["Popularity", "Rating: High to Low", "Cost: Low to High", "Cost: High to Low"].map(option => (
+                            <li key={option} className="flex items-center gap-2">
+                                <input
+                                    type="radio"
+                                    name="sort"
+                                    value={option}
+                                    checked={selectedSort === option}
+                                    onChange={(e) => setSortOption(e.target.value)}
+                                    className="form-radio accent-[#f51414] w-5 h-5 cursor-pointer"
+                                />
+                                <label>{option}</label>
+                            </li>
+                        ))}
                     </ul>
-
                 );
             case "Cuisines":
                 return <p>Checkbox list for cuisines goes here.</p>;
@@ -98,12 +77,6 @@ const FilterButton = () => {
                         <div id="filterattribs" className="w-7/10 p-6">
                             {renderRightPanel()}
                         </div>
-                    </div>
-
-                    {/* Bottom buttons */}
-                    <div className="flex justify-end gap-4 px-6 py-2">
-                        <button className="text-sm border rounded px-4 py-2 hover:bg-gray-100">Clear all</button>
-                        <button className="text-sm bg-red-500 text-white rounded px-5 py-2 hover:bg-red-600">Apply</button>
                     </div>
                 </div>
             </Modal>
